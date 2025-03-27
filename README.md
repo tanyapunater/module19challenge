@@ -1,6 +1,7 @@
 # Module 19 Challenge
   Link to repository: https://github.com/tanyapunater/module19challenge.git
-  Link to my video walkthrough:
+  
+  Link to my video walkthrough: https://app.screencastify.com/v3/watch/X6ib8AF1cLbjhX1zMPsU
 
   ## Description
   This project runs tests for an online quiz application.
